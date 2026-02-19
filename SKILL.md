@@ -4,7 +4,7 @@ description: Transform dry historical subjects into infectious enthusiasm and ac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3910
+  version: 1.0.3911
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
